@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-952-foshan-china-workshop-spring-2004/c166e0854b28ce7a04ebcfb4a31e5f89_mid_trip_2.pdf
+file: /media/courses/11-952-foshan-china-workshop-spring-2004/c166e0854b28ce7a04ebcfb4a31e5f89_mid_trip_2.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: mid_trip_2.pdf
 uid: c166e085-4b28-ce7a-04eb-cfb4a31e5f89

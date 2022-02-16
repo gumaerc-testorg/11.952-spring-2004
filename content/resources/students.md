@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: List of students in the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-952-foshan-china-workshop-spring-2004/9f7f53ef2bf60e06a4f1ad95e38e2b3f_students.pdf
+file: /media/courses/11-952-foshan-china-workshop-spring-2004/9f7f53ef2bf60e06a4f1ad95e38e2b3f_students.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: students.pdf
 uid: 9f7f53ef-2bf6-0e06-a4f1-ad95e38e2b3f

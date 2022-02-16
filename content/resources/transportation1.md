@@ -2,8 +2,13 @@
 content_type: resource
 description: Student presentation courtesy of Ursula Hester, Holly Krambeck and Adam
   Metzger. Used with permission.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-952-foshan-china-workshop-spring-2004/5ff3c0e9730abcb502b64ce24b4a54ec_transportation1.pdf
+file: /media/courses/11-952-foshan-china-workshop-spring-2004/5ff3c0e9730abcb502b64ce24b4a54ec_transportation1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: transportation1.pdf
 uid: 5ff3c0e9-730a-bcb5-02b6-4ce24b4a54ec
