@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ad4b1f05-d2bf-7775-d8e0-0356efbe0ece
 resourcetype: Document
 title: culture_open1.pdf
 uid: 447bfc19-44d8-c336-aba8-1258abe9c7c6

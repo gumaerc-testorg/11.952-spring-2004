@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ad4b1f05-d2bf-7775-d8e0-0356efbe0ece
 resourcetype: Document
 title: mid_trip_2.pdf
 uid: eceebe63-2433-8867-6221-36f48018c625

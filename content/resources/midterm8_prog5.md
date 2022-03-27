@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: ad4b1f05-d2bf-7775-d8e0-0356efbe0ece
 resourcetype: Document
 title: midterm8_prog5.pdf
 uid: f505c1ed-ab3b-32a8-1fe9-6bf5f631933e

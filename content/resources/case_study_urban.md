@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5b655bbc-481b-96e7-ddf6-66aa83d038bd
 resourcetype: Document
 title: case_study_urban.pdf
 uid: ce4c9230-f081-77aa-c07c-dce0c56e0434

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5b655bbc-481b-96e7-ddf6-66aa83d038bd
 resourcetype: Document
 title: foshan_today.pdf
 uid: 78175101-d31f-4ae9-ad3e-bab006e69264

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 280055e0-57b6-a8c8-cb87-e822d9beae7f
 resourcetype: Document
 title: mid_trip_4.pdf
 uid: a227ea5a-a12c-3789-b116-878dd593f125

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5b655bbc-481b-96e7-ddf6-66aa83d038bd
 resourcetype: Document
 title: case_study_rest.pdf
 uid: 021acac6-e7e1-0650-4d50-7925495b44d8

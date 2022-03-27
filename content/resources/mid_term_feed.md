@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 5b655bbc-481b-96e7-ddf6-66aa83d038bd
 resourcetype: Document
 title: mid_term_feed.pdf
 uid: 9149851f-70bb-ae8e-f009-ee7d58e8bb62
