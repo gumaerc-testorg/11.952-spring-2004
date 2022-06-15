@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -57,7 +58,7 @@ There are several defining issues that make the Foshan expansion project unique.
 
 Like most Chinese cities, Foshan struggles to find a balance between dense development, economic viability, and livability (quality of life). The development pressures in Foshan reveal the challenges in creating a viable urban environment that is ecologically healthy and socially equitable.
 
-![11-952s04.jpg]({{< resource_file f388b70a-64db-a4c8-4122-8779c3b41ba9 >}})
+{{< resource f388b70a-64db-a4c8-4122-8779c3b41ba9 >}}
 
 Additionally, one of the key areas of concern explored in this project is creating a viable connection between the northern ("old") part of the city with the southern ("new") part of the city. Much attention was given to the fundamental challenge of re-orienting Foshan towards the Dong Ping River; transforming the city so that the river runs through it, rather than along its periphery. Transportation and infrastructure development are of paramount importance for this, but it also involves linking the two sides of the river culturally and psychologically.
 

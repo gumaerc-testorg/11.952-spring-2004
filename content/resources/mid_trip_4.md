@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/11-952-foshan-china-workshop-spring-2004/a227ea5aa12c3789b116878dd593f125_mid_trip_4.pdf
+file: /courses/11-952-foshan-china-workshop-spring-2004/a227ea5aa12c3789b116878dd593f125_mid_trip_4.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
