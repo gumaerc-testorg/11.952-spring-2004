@@ -5,6 +5,7 @@ file: /courses/11-952-foshan-china-workshop-spring-2004/9f7f53ef2bf60e06a4f1ad95
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: students.pdf
 uid: 9f7f53ef-2bf6-0e06-a4f1-ad95e38e2b3f
 ---
 List of students in the course.
-

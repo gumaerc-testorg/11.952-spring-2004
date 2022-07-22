@@ -4,6 +4,7 @@ description: ''
 file: /courses/11-952-foshan-china-workshop-spring-2004/c166e0854b28ce7a04ebcfb4a31e5f89_mid_trip_2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection

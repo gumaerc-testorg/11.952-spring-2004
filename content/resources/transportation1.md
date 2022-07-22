@@ -6,6 +6,7 @@ file: /courses/11-952-foshan-china-workshop-spring-2004/5ff3c0e9730abcb502b64ce2
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: transportation1.pdf
 uid: 5ff3c0e9-730a-bcb5-02b6-4ce24b4a54ec
 ---
 Student presentation courtesy of Ursula Hester, Holly Krambeck and Adam Metzger. Used with permission.
-

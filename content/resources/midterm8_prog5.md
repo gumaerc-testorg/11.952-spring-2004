@@ -7,6 +7,7 @@ file: /courses/11-952-foshan-china-workshop-spring-2004/f505c1edab3b32a81fe96bf5
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: midterm8_prog5.pdf
 uid: f505c1ed-ab3b-32a8-1fe9-6bf5f631933e
 ---
 Student presentation courtesy of Ursula Hester, Holly Krambeck, Alexandra Reitman, Amy Kohn, Brian Robinson, Tracy Sayegh, Sarah Williams, Tam Doan, Hao Tian, Raymond Hodges, and Adam Metzger. Used with permission.
-
