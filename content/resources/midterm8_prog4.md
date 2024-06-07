@@ -4,6 +4,7 @@ description: Student presentation courtesy of Ursula Hester, Holly Krambeck, Ale
   Reitman, Amy Kohn, Brian Robinson, Tracy Sayegh, Sarah Williams, Tam Doan, Hao Tian,
   Raymond Hodges, and Adam Metzger. Used with permission.
 file: /courses/11-952-foshan-china-workshop-spring-2004/16f469a88ab85e193e5f121ddba7e873_midterm8_prog4.pdf
+file_size: 1510080
 file_type: application/pdf
 learning_resource_types:
 - Projects
