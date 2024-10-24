@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This lecture handout contains a development proposal for Fuzhou, China.
-file: /courses/11-952-foshan-china-workshop-spring-2004/021acac6e7e106504d507925495b44d8_case_study_rest.pdf
+file: /ol-ocw-studio-app/courses/11-952-foshan-china-workshop-spring-2004/021acac6e7e106504d507925495b44d8_case_study_rest.pdf
 file_size: 73085
 file_type: application/pdf
 learning_resource_types:
