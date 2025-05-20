@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture handout.
-file: /ol-ocw-studio-app/courses/11-952-foshan-china-workshop-spring-2004/2d7441c316bfda131c9b7916395cccfa_regional_context.pdf
+file: /courses/11-952-foshan-china-workshop-spring-2004/2d7441c316bfda131c9b7916395cccfa_regional_context.pdf
 file_size: 61783
 file_type: application/pdf
 learning_resource_types:
