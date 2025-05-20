@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-952-foshan-china-workshop-spring-2004/a227ea5aa12c3789b116878dd593f125_mid_trip_4.pdf
+file: /courses/11-952-foshan-china-workshop-spring-2004/a227ea5aa12c3789b116878dd593f125_mid_trip_4.pdf
 file_size: 1360104
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Comments of deputy planner.
-file: /ol-ocw-studio-app/courses/11-952-foshan-china-workshop-spring-2004/9149851f70bbae8ef009ee7d58e8bb62_mid_term_feed.pdf
+file: /courses/11-952-foshan-china-workshop-spring-2004/9149851f70bbae8ef009ee7d58e8bb62_mid_term_feed.pdf
 file_size: 92595
 file_type: application/pdf
 learning_resource_types:
